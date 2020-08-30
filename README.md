@@ -3,7 +3,7 @@ Build a simple flappy bird game with lives and score feature. The bird has to av
 
 TO PLAY:
 
-1) Clone this directory.
+1) Clone this repository.
 2) Goto the 'Working Prototype' directory and execute the .exe file.
 
 Note: All the scripts and assets are in the 'Scripts and Assets' directory.
